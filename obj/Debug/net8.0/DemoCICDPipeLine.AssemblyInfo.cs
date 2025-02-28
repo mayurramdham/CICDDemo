@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoCICDPipeLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b535426d6a6e99f417c05342d8ee8921a11fe390")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d0689b58c1c2c6535d4c5241fa58ec6405ea36c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoCICDPipeLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoCICDPipeLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
