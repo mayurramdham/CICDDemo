@@ -17,9 +17,13 @@ namespace DemoCICDPipeLine
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            
-            // remove the swagger for the development purpose
 
+            // remove the swagger for the development purpose
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
 
             app.UseHttpsRedirection();
 
