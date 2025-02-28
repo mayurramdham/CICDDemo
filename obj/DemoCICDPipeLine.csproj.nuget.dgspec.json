@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\New folder\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj": {}
+    "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\New folder\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj": {
+    "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\New folder\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj",
+        "projectUniqueName": "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj",
         "projectName": "DemoCICDPipeLine",
-        "projectPath": "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\New folder\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj",
+        "projectPath": "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\DemoCICDPipeLine\\DemoCICDPipeLine.csproj",
         "packagesPath": "C:\\Users\\mayurramdham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\New folder\\DemoCICDPipeLine\\obj\\",
+        "outputPath": "C:\\Users\\mayurramdham\\Desktop\\SmartData\\Azure\\DemoCICDPipeLine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayurramdham\\AppData\\Roaming\\NuGet\\NuGet.Config",
